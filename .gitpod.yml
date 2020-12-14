@@ -1,5 +1,5 @@
 tasks:
-  - init: yarn global add @stacks/cli
+  - init: npm i --global @stacks/cli
 
 vscode:
   extensions:
