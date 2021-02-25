@@ -1,5 +1,5 @@
 tasks:
-  - init: npm i --global npx @stacks/cli
+  - init: npm i --global npx && npm i --global @stacks/cli
 
 vscode:
   extensions:
